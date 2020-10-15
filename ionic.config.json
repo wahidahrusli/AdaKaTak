@@ -1,0 +1,7 @@
+{
+  "name": "fyp-adakatak",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
