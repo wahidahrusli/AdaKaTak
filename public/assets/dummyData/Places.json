@@ -1,0 +1,38 @@
+[
+    {
+        "placeId": 1,
+        "name": "Pavillion KL",
+        "address": "Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur"
+    },
+    {
+        "placeId": 2,
+        "name": "Alamanda Shopping Centre",
+        "address": "Jalan Alamanda, Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya"
+    },
+    {
+        "placeId": 3,
+        "name": "Taiping Sentral Mall",
+        "address": "Taiping, Malaysia, No. 36, Jalan Istana Larut, 34000 Taiping, Negeri Perak"
+    },
+    {
+        "placeId": 4,
+        "name": "Suria KLCC",
+        "address": "241, Suria KLCC, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+    },
+    {
+        "placeId": 5,
+        "name": "AEON Midtown Falim Shopping Centre",
+        "address": "1, 1, Hala Falim 6, Taman Falim, 30200 Ipoh, Perak"
+    },
+    {
+        "placeId": 6,
+        "name": "Straits Quay Marina Mall",
+        "address": "Jalan Seri Tanjung Pinang 10470 Tanjong Tokong, Penang Malaysia"
+    },
+    {
+        "placeId": 7,
+        "name": "Mydin Mall Meru Raya",
+        "address": "Mydin mall meru raya Pt lot fp-03 bandar meru raya, Jelapang, 30020 Ipoh, Negeri Perak"
+    }
+
+]

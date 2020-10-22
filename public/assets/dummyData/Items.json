@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "itemId": 1,
+            "name": "Dairy Milk"
+        },
+        {
+            "itemId": 2,
+            "name": "Cocoa Crunch"
+        },
+        {
+            "itemId": 3,
+            "name": "Breeze Detergent"
+        },
+        {
+            "itemId": 4,
+            "name": "OmegaPlus Egg"
+        },
+        {
+            "itemId": 5,
+            "name": "Apieu Sunblock"
+        },
+        {
+            "itemId": 6,
+            "name": "Nescafe Original"
+        },
+        {
+            "itemId": 7,
+            "name": "Logitech Speaker"
+        },
+        {
+            "itemId": 8,
+            "name": "Desa Mineral Water"
+        },
+        {
+            "itemId": 9,
+            "name": "Ridsect Mosquito Repellent"
+        },
+        {
+            "itemId": 10,
+            "name": "Premier Tissue"
+        }
+    ]
+}
